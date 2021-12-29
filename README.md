@@ -1,5 +1,5 @@
 # Encryption_DOC
-RSA 
-Symmetric
-PKI
-TLS
+RSA,
+Symmetric,
+PKI,
+TLS,
